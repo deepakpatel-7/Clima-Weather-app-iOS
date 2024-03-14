@@ -26,8 +26,4 @@ To set up WeatherApp on your iOS device or simulator, follow these steps:
 4. Grant necessary permissions for location access if prompted.
 5. Enjoy using WeatherApp to get real-time weather updates!
 
-## Credits
-WeatherApp was developed by [Your Name] as a project for learning iOS development and implementing various Swift features and frameworks.
 
-## License
-WeatherApp is licensed under the [License Name] license. See the LICENSE file for more details.
